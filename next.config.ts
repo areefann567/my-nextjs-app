@@ -12,15 +12,10 @@ const nextConfig: NextConfig = {
     unoptimized: true
   },
   
-  // Enable App Router features
-  experimental: {
-    appDir: true
-  },
-  
   // Better React development experience
   reactStrictMode: true,
   
-  // Improve bundle size
+  // Improve bundle size (optional)
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
   },
