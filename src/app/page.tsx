@@ -18,7 +18,7 @@ export default function Home() {
     <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
       src/app/page.tsx
     </code>{" "}
-    And Azure deployed it automatically! 🎉
+    And Azure great deployed it automatically! 🎉
   </li>
   <li className="tracking-[-.01em]">
     Save and see your changes instantly.
